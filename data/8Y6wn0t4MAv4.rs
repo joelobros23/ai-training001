@@ -8,4 +8,4 @@ fn main() {
     println!("The sum is: {}", sum);
 }
 
-// Cycle number 2
+// Cycle number 3
